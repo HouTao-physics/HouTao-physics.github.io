@@ -7,9 +7,9 @@
 
 # Site settings
 title: HouTao
-brief-intro: Front-end Dev Engineer
+brief-intro: Condensed matter physicist
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/Gaohaoyang/gaohaoyang.github.io.git" # the base hostname & protocol for your site
+url: "https://houtao-physics.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
