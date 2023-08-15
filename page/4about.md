@@ -19,7 +19,7 @@ I'a researcher in condensed matter theory, mainly focused on quantum transport a
 
 * Google Scholar：[Hou Tao](https://scholar.google.com/citations?user=_RzNYEoAAAAJ&hl=en)
 * email：houtaophd@gmail.com
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
+* [知乎](https://www.zhihu.com/people/Hou.tao)
 
 
 ## 友情链接
