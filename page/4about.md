@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-I'a researcher in condensed matter theory, mainly focused on quantum transport and electronic structure. 
+I'm a researcher in condensed matter theory, mainly focused on quantum transport and electronic structure. 
 
 
 
