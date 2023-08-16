@@ -8,7 +8,7 @@
 # Site settings
 title: Hou Tao
 brief-intro: Condensed matter physicist
-baseurl: "https://scholar.google.com/citations?user=_RzNYEoAAAAJ&hl=en" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://houtao-physics.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
